@@ -5,7 +5,7 @@
     <div class="container">
         <div class="row justify-content-center mb-5">
             <div class="col-md-8 heading-section text-center ftco-animate">
-                <span class="subheading">Discover</span>
+                <span class="subheading">UMKM</span>
                 <h2 class="mb-4">Our Products</h2>
                 <p>Explore our carefully crafted selections from the best ingredients.</p>
             </div>
